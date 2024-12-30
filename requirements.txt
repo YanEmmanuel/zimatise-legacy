@@ -1,0 +1,13 @@
+asyncio
+natsort
+numpy
+openpyxl
+pandas
+pyautogui
+pyperclip
+pyrofork
+tgcrypto
+unidecode
+tgsender
+vidtool
+zipind

@@ -1,0 +1,495 @@
+ 2024-12-29 23:06:09,920-INFO-Find for video with extension: .mp4, .avi, .webm, .ts, .vob, .mov, .mkv, .wmv, .3gp, .flv, .ogv, .ogg, .rrc, .gifv, .mng, .qt, .yuv, .rm, .asf, .amv, .m4p, .m4v, .mpg, .mp2, .mpeg, .mpe, .mpv, .svi, .3g2, .mxf, .roq, .nsv, .f4v, .f4p, .f4a, .f4b
+ 2024-12-29 23:06:09,924-INFO-Selected file: 1. Os 10 motivos que são os diferenciais dos cursos de IT do  professor Marco Maddo.mp4
+ 2024-12-29 23:06:09,925-INFO-Selected file: 2. Seja protagonista da sua carreira na área de tecnologia..mp4
+ 2024-12-29 23:06:09,925-INFO-Selected file: 3. Aula 00 - Entenda o que você vai aprender neste curso, e não tenha surpresas..mp4
+ 2024-12-29 23:06:09,925-INFO-Selected file: 4. Aula 01 - Instalação IntelliJ IDEA para aprender programar em Kotlin no curso..mp4
+ 2024-12-29 23:06:09,925-INFO-Selected file: 5. Importante informação sobre a atualização completa do curso para versão 2022..mp4
+ 2024-12-29 23:06:09,925-INFO-Selected file: 6. Aula 02 - Overview da IDE IntelliJ.mp4
+ 2024-12-29 23:06:09,925-INFO-Selected file: 7. Aula Extra - Como acessar todos os projetos atualizados pelo Repositório Github.mp4
+ 2024-12-29 23:06:09,925-INFO-Selected file: 8. Aula 03 - 1º Programa Kotlin para quem nunca programou na vida  fun main().mp4
+ 2024-12-29 23:06:09,925-INFO-Selected file: 9. Aula 04 - 2º Programa Kotlin  Imprimindo textos com o método nativo print().mp4
+ 2024-12-29 23:06:09,925-INFO-Selected file: 10. Aula 05 - 2º Programa Kotlin  Criar no seu Projeto um Método para impressão..mp4
+ 2024-12-29 23:06:09,925-INFO-Selected file: 11. Aula 06 - Fundamentos  Fluxo de Entrada, Processamento e Saída com Exemplo..mp4
+ 2024-12-29 23:06:09,925-INFO-Selected file: 12. Aula 06 -3º Programa Kotlin  Como calcular quantos anos de vida uma pessoa tem.mp4
+ 2024-12-29 23:06:09,925-INFO-Selected file: 13. Aula 06 -3º Programa Kotlin  Boas práticas de programação melhorando o projeto..mp4
+ 2024-12-29 23:06:09,925-INFO-Selected file: 14. Dica do Professor - Kotlin REPL.mp4
+ 2024-12-29 23:06:09,925-INFO-Selected file: 16. Convite especial do Professor - Participe da Comunidade dos Alunos do Curso..mp4
+ 2024-12-29 23:06:09,925-INFO-Selected file: 17. Aula 07 - Tipos de variáveis possíveis em Kotlin  val var const val.mp4
+ 2024-12-29 23:06:09,925-INFO-Selected file: 18. Aula 08 - 4º Programa Kotlin  Cálculo do raio do círculo  val var const val.mp4
+ 2024-12-29 23:06:09,925-INFO-Selected file: 19. Dica do Professor - Como implementar a entrada de dados via teclado em Kotlin.mp4
+ 2024-12-29 23:06:09,925-INFO-Selected file: 20. Dica do Professor - Como utilizar uma Biblioteca Matemática pronta em Kotlin.mp4
+ 2024-12-29 23:06:09,925-INFO-Selected file: 21. Aula 09 - Visão geral sobre os Tipos de Dados disponíveis em Kotlin.mp4
+ 2024-12-29 23:06:09,925-INFO-Selected file: 22. Aula 10 - Declarando Char e String.mp4
+ 2024-12-29 23:06:09,925-INFO-Selected file: 23. Aula 11 - Métodos úteis para uso com Strings.mp4
+ 2024-12-29 23:06:09,925-INFO-Selected file: 24. Aula 12 - Declarando Byte Int Short Long.mp4
+ 2024-12-29 23:06:09,925-INFO-Selected file: 25. Aula 13 - Declarando Float Double.mp4
+ 2024-12-29 23:06:09,926-INFO-Selected file: 26. Dica do Professor - Formatação da dados numéricos em Kotlin..mp4
+ 2024-12-29 23:06:09,926-INFO-Selected file: 27. Exercício de programação em Kotlin - Calcular a área de um Triângulo.mp4
+ 2024-12-29 23:06:09,926-INFO-Selected file: 28. Exercício de programação em Kotlin - Cálculo da média ponderada.mp4
+ 2024-12-29 23:06:09,926-INFO-Selected file: 29. Exercício de programação em Kotlin - Converter pés em polegadas, jardas e milhas.mp4
+ 2024-12-29 23:06:09,926-INFO-Selected file: 30. Aula 14 - Tipos de Operadores Aritméticos.mp4
+ 2024-12-29 23:06:09,926-INFO-Selected file: 31. Aula 15 - Tipos de Operadores Relacionais ou Comparativos.mp4
+ 2024-12-29 23:06:09,926-INFO-Selected file: 32. Aula 16 - Tipos de Operadores Lógicos.mp4
+ 2024-12-29 23:06:09,926-INFO-Selected file: 33. Dica do Professor - Tabela verdade para operadores Lógicos AND OR e NOT &&  !=.mp4
+ 2024-12-29 23:06:09,926-INFO-Selected file: 34.  Aula 17 - Fundamentos sobre Controle de Fluxo de Execução..mp4
+ 2024-12-29 23:06:09,926-INFO-Selected file: 35.  Aula 18 - Controlando Fluxos com expressão IF.mp4
+ 2024-12-29 23:06:09,926-INFO-Selected file: 36.  Aula 20 - Controlando Fluxos com IF ELSE IF.mp4
+ 2024-12-29 23:06:09,926-INFO-Selected file: 37.  Aula 19 - Controlando Fluxos com IF ELSE.mp4
+ 2024-12-29 23:06:09,926-INFO-Selected file: 38.  Aula 21 - Controlando Fluxos de Execução com WHEN.mp4
+ 2024-12-29 23:06:09,926-INFO-Selected file: 39.  Aula 22 - Conceitos sobre Laços de Repetição.mp4
+ 2024-12-29 23:06:09,926-INFO-Selected file: 40.  Aula 23 - Laços de Repetição com FOR.mp4
+ 2024-12-29 23:06:09,926-INFO-Selected file: 41.  Aula 24 - Laços de Repetição com WHILE.mp4
+ 2024-12-29 23:06:09,926-INFO-Selected file: 42.  Aplicação para WHILE - Conversão de números  Binário para Decimal  Parte 01.mp4
+ 2024-12-29 23:06:09,926-INFO-Selected file: 43.  Aplicação para WHILE - Conversão de números  Binário para Decimal  Parte 02.mp4
+ 2024-12-29 23:06:09,926-INFO-Selected file: 44.  Aula 25 - Laços de Repetição com DO WHILE.mp4
+ 2024-12-29 23:06:09,926-INFO-Selected file: 45. Contextualização do que iremos estudar nessa seção sobre Arrays em Kotlin..mp4
+ 2024-12-29 23:06:09,926-INFO-Selected file: 46. Array - Criação de um Array vazio  do Tipo String..mp4
+ 2024-12-29 23:06:09,926-INFO-Selected file: 47. Array - Criação de um Array com 4 elementos do Tipo String.mp4
+ 2024-12-29 23:06:09,926-INFO-Selected file: 48. Array - Como ler um Array com laço de repetição for.mp4
+ 2024-12-29 23:06:09,926-INFO-Selected file: 49. Trabalhando com LocalDateTime - Como obter a data e hora corrente.mp4
+ 2024-12-29 23:06:09,926-INFO-Selected file: 50. Trabalhando com DateTimeFormatter - Como formatar a data e hora corrente.mp4
+ 2024-12-29 23:06:09,926-INFO-Selected file: 51. Trabalhando com getProperty - Como obter o diretório atual.mp4
+ 2024-12-29 23:06:09,926-INFO-Selected file: 52. Algoritmo 00 - O que são Algoritmos.mp4
+ 2024-12-29 23:06:09,927-INFO-Selected file: 53. Algoritmo 01 - Soma de dois números inteiros [Solução].mp4
+ 2024-12-29 23:06:09,927-INFO-Selected file: 55. O que você vai aprender no módulo Básico sobre Desenvolvimento Android Kotlin.mp4
+ 2024-12-29 23:06:09,927-INFO-Selected file: 56. Orientações para Instalação versão da IDE Android Studio mais recente..mp4
+ 2024-12-29 23:06:09,927-INFO-Selected file: 57. Aplicativo Somar Dois Números - Criação do Projeto..mp4
+ 2024-12-29 23:06:09,927-INFO-Selected file: 58. Aplicativo Soma Dois Números - Estrutura de um projeto Kotlin Android Studio.mp4
+ 2024-12-29 23:06:09,927-INFO-Selected file: 59. Aplicativo Somar Dois Números - Componente de Layout TextView.mp4
+ 2024-12-29 23:06:09,927-INFO-Selected file: 60. Aplicativo Somar Dois Números - ConstraitLayout Tela Responsiva do aplicativo.mp4
+ 2024-12-29 23:06:09,927-INFO-Selected file: 61. Aplicativo Somar Dois Números - Rodando o projeto no Emulador AVD..mp4
+ 2024-12-29 23:06:09,927-INFO-Selected file: 62. Aplicativo Somar Dois Números - O que são os IDs para os componentes de Layout.mp4
+ 2024-12-29 23:06:09,927-INFO-Selected file: 63. Aplicativo Somar Dois Números - Atribuindo IDs corretamente para os componentes..mp4
+ 2024-12-29 23:06:09,927-INFO-Selected file: 64. Aplicativo Somar Dois Números - Declarando componentes e atributos em Kotlin.mp4
+ 2024-12-29 23:06:09,927-INFO-Selected file: 65. Aplicativo Somar Dois Números - Capturando CLICK nos botões programaticamente..mp4
+ 2024-12-29 23:06:09,927-INFO-Selected file: 66. Aplicativo Somar Dois Números - Capturando DADOS digitados no EditText.mp4
+ 2024-12-29 23:06:09,927-INFO-Selected file: 67. Aplicativo Somar Dois Números - Monitoramento ao app via modo DEBUG.mp4
+ 2024-12-29 23:06:09,927-INFO-Selected file: 68. Aplicativo Somar Dois Números - Validando dados digitados com método isEmpty().mp4
+ 2024-12-29 23:06:09,927-INFO-Selected file: 69. Como será o aplicativo que você vai criar nas próximas aulas.mp4
+ 2024-12-29 23:06:09,927-INFO-Selected file: 70. Adicionando a pasta assets para receber fontes true type..mp4
+ 2024-12-29 23:06:09,927-INFO-Selected file: 71. Declarando os componentes de layout TextView e Button em Kotlin.mp4
+ 2024-12-29 23:06:09,927-INFO-Selected file: 72. Declarando atributos de apoio para acessar as fontes..mp4
+ 2024-12-29 23:06:09,927-INFO-Selected file: 73. Associando as fontes true type aos componentes TextText e Button.mp4
+ 2024-12-29 23:06:09,927-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/1. Os 10 motivos que são os diferenciais dos cursos de IT do  professor Marco Maddo.mp4
+ 2024-12-29 23:06:09,985-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/2. Seja protagonista da sua carreira na área de tecnologia..mp4
+ 2024-12-29 23:06:10,036-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/3. Aula 00 - Entenda o que você vai aprender neste curso, e não tenha surpresas..mp4
+ 2024-12-29 23:06:10,090-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/4. Aula 01 - Instalação IntelliJ IDEA para aprender programar em Kotlin no curso..mp4
+ 2024-12-29 23:06:10,152-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/5. Importante informação sobre a atualização completa do curso para versão 2022..mp4
+ 2024-12-29 23:06:10,207-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/6. Aula 02 - Overview da IDE IntelliJ.mp4
+ 2024-12-29 23:06:10,268-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/7. Aula Extra - Como acessar todos os projetos atualizados pelo Repositório Github.mp4
+ 2024-12-29 23:06:10,331-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/8. Aula 03 - 1º Programa Kotlin para quem nunca programou na vida  fun main().mp4
+ 2024-12-29 23:06:10,395-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/9. Aula 04 - 2º Programa Kotlin  Imprimindo textos com o método nativo print().mp4
+ 2024-12-29 23:06:10,450-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/10. Aula 05 - 2º Programa Kotlin  Criar no seu Projeto um Método para impressão..mp4
+ 2024-12-29 23:06:10,506-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/11. Aula 06 - Fundamentos  Fluxo de Entrada, Processamento e Saída com Exemplo..mp4
+ 2024-12-29 23:06:10,559-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/12. Aula 06 -3º Programa Kotlin  Como calcular quantos anos de vida uma pessoa tem.mp4
+ 2024-12-29 23:06:10,615-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/13. Aula 06 -3º Programa Kotlin  Boas práticas de programação melhorando o projeto..mp4
+ 2024-12-29 23:06:10,679-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/14. Dica do Professor - Kotlin REPL.mp4
+ 2024-12-29 23:06:10,732-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/16. Convite especial do Professor - Participe da Comunidade dos Alunos do Curso..mp4
+ 2024-12-29 23:06:10,784-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/17. Aula 07 - Tipos de variáveis possíveis em Kotlin  val var const val.mp4
+ 2024-12-29 23:06:10,838-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/18. Aula 08 - 4º Programa Kotlin  Cálculo do raio do círculo  val var const val.mp4
+ 2024-12-29 23:06:10,894-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/19. Dica do Professor - Como implementar a entrada de dados via teclado em Kotlin.mp4
+ 2024-12-29 23:06:10,947-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/20. Dica do Professor - Como utilizar uma Biblioteca Matemática pronta em Kotlin.mp4
+ 2024-12-29 23:06:11,000-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/21. Aula 09 - Visão geral sobre os Tipos de Dados disponíveis em Kotlin.mp4
+ 2024-12-29 23:06:11,056-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/22. Aula 10 - Declarando Char e String.mp4
+ 2024-12-29 23:06:11,112-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/23. Aula 11 - Métodos úteis para uso com Strings.mp4
+ 2024-12-29 23:06:11,175-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/24. Aula 12 - Declarando Byte Int Short Long.mp4
+ 2024-12-29 23:06:11,233-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/25. Aula 13 - Declarando Float Double.mp4
+ 2024-12-29 23:06:11,289-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/26. Dica do Professor - Formatação da dados numéricos em Kotlin..mp4
+ 2024-12-29 23:06:11,344-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/27. Exercício de programação em Kotlin - Calcular a área de um Triângulo.mp4
+ 2024-12-29 23:06:11,401-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/28. Exercício de programação em Kotlin - Cálculo da média ponderada.mp4
+ 2024-12-29 23:06:11,460-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/29. Exercício de programação em Kotlin - Converter pés em polegadas, jardas e milhas.mp4
+ 2024-12-29 23:06:11,518-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/30. Aula 14 - Tipos de Operadores Aritméticos.mp4
+ 2024-12-29 23:06:11,575-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/31. Aula 15 - Tipos de Operadores Relacionais ou Comparativos.mp4
+ 2024-12-29 23:06:11,632-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/32. Aula 16 - Tipos de Operadores Lógicos.mp4
+ 2024-12-29 23:06:11,688-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/33. Dica do Professor - Tabela verdade para operadores Lógicos AND OR e NOT &&  !=.mp4
+ 2024-12-29 23:06:11,744-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/34.  Aula 17 - Fundamentos sobre Controle de Fluxo de Execução..mp4
+ 2024-12-29 23:06:11,797-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/35.  Aula 18 - Controlando Fluxos com expressão IF.mp4
+ 2024-12-29 23:06:11,857-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/36.  Aula 20 - Controlando Fluxos com IF ELSE IF.mp4
+ 2024-12-29 23:06:11,911-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/37.  Aula 19 - Controlando Fluxos com IF ELSE.mp4
+ 2024-12-29 23:06:11,965-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/38.  Aula 21 - Controlando Fluxos de Execução com WHEN.mp4
+ 2024-12-29 23:06:12,019-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/39.  Aula 22 - Conceitos sobre Laços de Repetição.mp4
+ 2024-12-29 23:06:12,072-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/40.  Aula 23 - Laços de Repetição com FOR.mp4
+ 2024-12-29 23:06:12,123-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/41.  Aula 24 - Laços de Repetição com WHILE.mp4
+ 2024-12-29 23:06:12,174-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/42.  Aplicação para WHILE - Conversão de números  Binário para Decimal  Parte 01.mp4
+ 2024-12-29 23:06:12,235-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/43.  Aplicação para WHILE - Conversão de números  Binário para Decimal  Parte 02.mp4
+ 2024-12-29 23:06:12,293-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/44.  Aula 25 - Laços de Repetição com DO WHILE.mp4
+ 2024-12-29 23:06:12,349-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/45. Contextualização do que iremos estudar nessa seção sobre Arrays em Kotlin..mp4
+ 2024-12-29 23:06:12,402-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/46. Array - Criação de um Array vazio  do Tipo String..mp4
+ 2024-12-29 23:06:12,459-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/47. Array - Criação de um Array com 4 elementos do Tipo String.mp4
+ 2024-12-29 23:06:12,515-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/48. Array - Como ler um Array com laço de repetição for.mp4
+ 2024-12-29 23:06:12,571-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/49. Trabalhando com LocalDateTime - Como obter a data e hora corrente.mp4
+ 2024-12-29 23:06:12,627-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/50. Trabalhando com DateTimeFormatter - Como formatar a data e hora corrente.mp4
+ 2024-12-29 23:06:12,688-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/51. Trabalhando com getProperty - Como obter o diretório atual.mp4
+ 2024-12-29 23:06:12,741-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/52. Algoritmo 00 - O que são Algoritmos.mp4
+ 2024-12-29 23:06:12,793-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/53. Algoritmo 01 - Soma de dois números inteiros [Solução].mp4
+ 2024-12-29 23:06:12,862-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/55. O que você vai aprender no módulo Básico sobre Desenvolvimento Android Kotlin.mp4
+ 2024-12-29 23:06:12,916-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/56. Orientações para Instalação versão da IDE Android Studio mais recente..mp4
+ 2024-12-29 23:06:12,972-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/57. Aplicativo Somar Dois Números - Criação do Projeto..mp4
+ 2024-12-29 23:06:13,029-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/58. Aplicativo Soma Dois Números - Estrutura de um projeto Kotlin Android Studio.mp4
+ 2024-12-29 23:06:13,091-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/59. Aplicativo Somar Dois Números - Componente de Layout TextView.mp4
+ 2024-12-29 23:06:13,161-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/60. Aplicativo Somar Dois Números - ConstraitLayout Tela Responsiva do aplicativo.mp4
+ 2024-12-29 23:06:13,243-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/61. Aplicativo Somar Dois Números - Rodando o projeto no Emulador AVD..mp4
+ 2024-12-29 23:06:13,314-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/62. Aplicativo Somar Dois Números - O que são os IDs para os componentes de Layout.mp4
+ 2024-12-29 23:06:13,369-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/63. Aplicativo Somar Dois Números - Atribuindo IDs corretamente para os componentes..mp4
+ 2024-12-29 23:06:13,425-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/64. Aplicativo Somar Dois Números - Declarando componentes e atributos em Kotlin.mp4
+ 2024-12-29 23:06:13,487-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/65. Aplicativo Somar Dois Números - Capturando CLICK nos botões programaticamente..mp4
+ 2024-12-29 23:06:13,541-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/66. Aplicativo Somar Dois Números - Capturando DADOS digitados no EditText.mp4
+ 2024-12-29 23:06:13,599-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/67. Aplicativo Somar Dois Números - Monitoramento ao app via modo DEBUG.mp4
+ 2024-12-29 23:06:13,654-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/68. Aplicativo Somar Dois Números - Validando dados digitados com método isEmpty().mp4
+ 2024-12-29 23:06:13,709-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/69. Como será o aplicativo que você vai criar nas próximas aulas.mp4
+ 2024-12-29 23:06:13,762-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/70. Adicionando a pasta assets para receber fontes true type..mp4
+ 2024-12-29 23:06:13,816-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/71. Declarando os componentes de layout TextView e Button em Kotlin.mp4
+ 2024-12-29 23:06:13,877-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/72. Declarando atributos de apoio para acessar as fontes..mp4
+ 2024-12-29 23:06:13,929-INFO-Catching video metadata: /home/yan/Downloads/cursos/Kotlin Fundamentos da Programação para Leigos - Marco Aurélio Dias de Oliveira/73. Associando as fontes true type aos componentes TextText e Button.mp4
+ 2024-12-29 23:06:14,063-INFO-
+There are no videos to reencode
+ 2024-12-29 23:06:42,966-INFO-Start creating a new auth key on DC2
+ 2024-12-29 23:06:42,966-INFO-Connecting...
+ 2024-12-29 23:06:43,142-INFO-Connected! Production DC2 - IPv4
+ 2024-12-29 23:06:44,787-INFO-Done auth key exchange: DhGenOk
+ 2024-12-29 23:06:44,787-INFO-Disconnected
+ 2024-12-29 23:06:44,798-INFO-Connecting...
+ 2024-12-29 23:06:44,969-INFO-Connected! Production DC2 - IPv4
+ 2024-12-29 23:06:44,970-INFO-NetworkTask started
+ 2024-12-29 23:06:45,522-INFO-Session initialized: Layer 195
+ 2024-12-29 23:06:45,522-INFO-Device: CPython 3.12.7 - Pyrogram 2.3.53
+ 2024-12-29 23:06:45,522-INFO-System: Linux 6.12.4-1-MANJARO (en)
+ 2024-12-29 23:06:45,522-INFO-Session started
+ 2024-12-29 23:06:45,523-INFO-PingTask started
+ 2024-12-29 23:07:00,619-INFO-PingTask stopped
+ 2024-12-29 23:07:00,619-INFO-NetworkTask stopped
+ 2024-12-29 23:07:00,619-INFO-Disconnected
+ 2024-12-29 23:07:00,619-INFO-Session stopped
+ 2024-12-29 23:07:00,643-INFO-Start creating a new auth key on DC1
+ 2024-12-29 23:07:00,643-INFO-Connecting...
+ 2024-12-29 23:07:00,893-INFO-Connected! Production DC1 - IPv4
+ 2024-12-29 23:07:02,595-INFO-Done auth key exchange: DhGenOk
+ 2024-12-29 23:07:02,595-INFO-Disconnected
+ 2024-12-29 23:07:02,601-INFO-Connecting...
+ 2024-12-29 23:07:02,815-INFO-Connected! Production DC1 - IPv4
+ 2024-12-29 23:07:02,815-INFO-NetworkTask started
+ 2024-12-29 23:07:03,490-INFO-Session initialized: Layer 195
+ 2024-12-29 23:07:03,490-INFO-Device: CPython 3.12.7 - Pyrogram 2.3.53
+ 2024-12-29 23:07:03,490-INFO-System: Linux 6.12.4-1-MANJARO (en)
+ 2024-12-29 23:07:03,490-INFO-Session started
+ 2024-12-29 23:07:03,490-INFO-PingTask started
+ 2024-12-29 23:07:46,723-INFO-Started 8 HandlerTasks
+ 2024-12-29 23:07:47,231-INFO-Stopped 8 HandlerTasks
+ 2024-12-29 23:07:47,231-INFO-PingTask stopped
+ 2024-12-29 23:07:47,231-INFO-NetworkTask stopped
+ 2024-12-29 23:07:47,231-INFO-Disconnected
+ 2024-12-29 23:07:47,231-INFO-Session stopped
+ 2024-12-29 23:07:47,243-INFO-Connecting...
+ 2024-12-29 23:07:47,536-INFO-Connected! Production DC1 - IPv4
+ 2024-12-29 23:07:47,537-INFO-NetworkTask started
+ 2024-12-29 23:07:48,457-INFO-Session initialized: Layer 195
+ 2024-12-29 23:07:48,458-INFO-Device: CPython 3.12.7 - Pyrogram 2.3.53
+ 2024-12-29 23:07:48,458-INFO-System: Linux 6.12.4-1-MANJARO (en)
+ 2024-12-29 23:07:48,458-INFO-Session started
+ 2024-12-29 23:07:48,459-INFO-PingTask started
+ 2024-12-29 23:07:48,981-INFO-Started 8 HandlerTasks
+ 2024-12-29 23:07:49,358-INFO-Stopped 8 HandlerTasks
+ 2024-12-29 23:07:49,358-INFO-PingTask stopped
+ 2024-12-29 23:07:49,359-INFO-NetworkTask stopped
+ 2024-12-29 23:07:49,359-INFO-Disconnected
+ 2024-12-29 23:07:49,359-INFO-Session stopped
+ 2024-12-29 23:07:49,370-INFO-Connecting...
+ 2024-12-29 23:07:49,601-INFO-Connected! Production DC1 - IPv4
+ 2024-12-29 23:07:49,601-INFO-NetworkTask started
+ 2024-12-29 23:07:51,023-INFO-Session initialized: Layer 195
+ 2024-12-29 23:07:51,024-INFO-Device: CPython 3.12.7 - Pyrogram 2.3.53
+ 2024-12-29 23:07:51,024-INFO-System: Linux 6.12.4-1-MANJARO (en)
+ 2024-12-29 23:07:51,024-INFO-Session started
+ 2024-12-29 23:07:51,025-INFO-PingTask started
+ 2024-12-29 23:07:51,739-INFO-Started 8 HandlerTasks
+ 2024-12-29 23:07:52,055-INFO-Stopped 8 HandlerTasks
+ 2024-12-29 23:07:52,055-INFO-PingTask stopped
+ 2024-12-29 23:07:52,056-INFO-NetworkTask stopped
+ 2024-12-29 23:07:52,056-INFO-Disconnected
+ 2024-12-29 23:07:52,056-INFO-Session stopped
+ 2024-12-29 23:07:52,066-INFO-Connecting...
+ 2024-12-29 23:07:52,347-INFO-Connected! Production DC1 - IPv4
+ 2024-12-29 23:07:52,347-INFO-NetworkTask started
+ 2024-12-29 23:07:53,269-INFO-Session initialized: Layer 195
+ 2024-12-29 23:07:53,269-INFO-Device: CPython 3.12.7 - Pyrogram 2.3.53
+ 2024-12-29 23:07:53,269-INFO-System: Linux 6.12.4-1-MANJARO (en)
+ 2024-12-29 23:07:53,269-INFO-Session started
+ 2024-12-29 23:07:53,271-INFO-PingTask started
+ 2024-12-29 23:07:53,814-INFO-Started 8 HandlerTasks
+ 2024-12-29 23:07:54,092-INFO-Stopped 8 HandlerTasks
+ 2024-12-29 23:07:54,092-INFO-PingTask stopped
+ 2024-12-29 23:07:54,092-INFO-NetworkTask stopped
+ 2024-12-29 23:07:54,093-INFO-Disconnected
+ 2024-12-29 23:07:54,093-INFO-Session stopped
+ 2024-12-29 23:07:54,095-INFO-Sending video...
+ 2024-12-29 23:07:54,243-INFO-Connecting...
+ 2024-12-29 23:07:54,500-INFO-Connected! Production DC1 - IPv4
+ 2024-12-29 23:07:54,500-INFO-NetworkTask started
+ 2024-12-29 23:07:55,383-INFO-Session initialized: Layer 195
+ 2024-12-29 23:07:55,384-INFO-Device: CPython 3.12.7 - Pyrogram 2.3.53
+ 2024-12-29 23:07:55,384-INFO-System: Linux 6.12.4-1-MANJARO (en)
+ 2024-12-29 23:07:55,384-INFO-Session started
+ 2024-12-29 23:07:55,385-INFO-PingTask started
+ 2024-12-29 23:07:55,831-WARNING-[user] Waiting for 3 seconds before continuing (required by "users.GetFullUser")
+ 2024-12-29 23:07:59,127-INFO-Started 8 HandlerTasks
+ 2024-12-29 23:07:59,130-INFO-Connecting...
+ 2024-12-29 23:07:59,414-INFO-Connected! Production DC1 (media) - IPv4
+ 2024-12-29 23:07:59,414-INFO-NetworkTask started
+ 2024-12-29 23:07:59,993-INFO-Session initialized: Layer 195
+ 2024-12-29 23:07:59,993-INFO-Device: CPython 3.12.7 - Pyrogram 2.3.53
+ 2024-12-29 23:07:59,993-INFO-System: Linux 6.12.4-1-MANJARO (en)
+ 2024-12-29 23:07:59,993-INFO-Session started
+ 2024-12-29 23:07:59,993-INFO-PingTask started
+ 2024-12-29 23:08:00,248-INFO-PingTask stopped
+ 2024-12-29 23:08:00,249-INFO-NetworkTask stopped
+ 2024-12-29 23:08:00,249-INFO-Disconnected
+ 2024-12-29 23:08:00,249-INFO-Session stopped
+ 2024-12-29 23:08:00,251-INFO-Connecting...
+ 2024-12-29 23:08:00,465-INFO-Connected! Production DC1 (media) - IPv4
+ 2024-12-29 23:08:00,465-INFO-NetworkTask started
+ 2024-12-29 23:08:01,128-INFO-Session initialized: Layer 195
+ 2024-12-29 23:08:01,128-INFO-Device: CPython 3.12.7 - Pyrogram 2.3.53
+ 2024-12-29 23:08:01,128-INFO-System: Linux 6.12.4-1-MANJARO (en)
+ 2024-12-29 23:08:01,128-INFO-Session started
+ 2024-12-29 23:08:01,128-INFO-PingTask started
+ 2024-12-29 23:10:29,490-INFO-PingTask stopped
+ 2024-12-29 23:10:29,491-INFO-Send exception: ConnectionResetError Connection lost
+ 2024-12-29 23:10:29,492-INFO-NetworkTask stopped
+ 2024-12-29 23:10:29,492-INFO-Disconnected
+ 2024-12-29 23:10:29,492-INFO-Session stopped
+ 2024-12-29 23:10:29,766-INFO-Stopped 8 HandlerTasks
+ 2024-12-29 23:10:29,766-INFO-PingTask stopped
+ 2024-12-29 23:10:29,767-INFO-NetworkTask stopped
+ 2024-12-29 23:10:29,767-INFO-Disconnected
+ 2024-12-29 23:10:29,767-INFO-Session stopped
+ 2024-12-29 23:10:29,773-INFO-Sending video...
+ 2024-12-29 23:10:29,977-INFO-Connecting...
+ 2024-12-29 23:10:30,138-INFO-Connected! Production DC1 - IPv4
+ 2024-12-29 23:10:30,139-INFO-NetworkTask started
+ 2024-12-29 23:10:30,635-INFO-Session initialized: Layer 195
+ 2024-12-29 23:10:30,635-INFO-Device: CPython 3.12.7 - Pyrogram 2.3.53
+ 2024-12-29 23:10:30,635-INFO-System: Linux 6.12.4-1-MANJARO (en)
+ 2024-12-29 23:10:30,635-INFO-Session started
+ 2024-12-29 23:10:30,637-INFO-PingTask started
+ 2024-12-29 23:10:31,079-INFO-Started 8 HandlerTasks
+ 2024-12-29 23:10:31,083-INFO-Connecting...
+ 2024-12-29 23:10:31,274-INFO-Connected! Production DC1 (media) - IPv4
+ 2024-12-29 23:10:31,274-INFO-NetworkTask started
+ 2024-12-29 23:10:31,989-INFO-Session initialized: Layer 195
+ 2024-12-29 23:10:31,989-INFO-Device: CPython 3.12.7 - Pyrogram 2.3.53
+ 2024-12-29 23:10:31,989-INFO-System: Linux 6.12.4-1-MANJARO (en)
+ 2024-12-29 23:10:31,989-INFO-Session started
+ 2024-12-29 23:10:31,989-INFO-PingTask started
+ 2024-12-29 23:10:32,268-INFO-PingTask stopped
+ 2024-12-29 23:10:32,269-INFO-NetworkTask stopped
+ 2024-12-29 23:10:32,269-INFO-Disconnected
+ 2024-12-29 23:10:32,269-INFO-Session stopped
+ 2024-12-29 23:10:32,271-INFO-Connecting...
+ 2024-12-29 23:10:32,501-INFO-Connected! Production DC1 (media) - IPv4
+ 2024-12-29 23:10:32,501-INFO-NetworkTask started
+ 2024-12-29 23:10:33,219-INFO-Session initialized: Layer 195
+ 2024-12-29 23:10:33,219-INFO-Device: CPython 3.12.7 - Pyrogram 2.3.53
+ 2024-12-29 23:10:33,219-INFO-System: Linux 6.12.4-1-MANJARO (en)
+ 2024-12-29 23:10:33,219-INFO-Session started
+ 2024-12-29 23:10:33,222-INFO-PingTask started
+ 2024-12-29 23:10:57,592-INFO-PingTask stopped
+ 2024-12-29 23:10:57,592-INFO-NetworkTask stopped
+ 2024-12-29 23:10:57,592-INFO-Disconnected
+ 2024-12-29 23:10:57,593-INFO-Session stopped
+ 2024-12-29 23:10:57,922-INFO-Stopped 8 HandlerTasks
+ 2024-12-29 23:10:57,922-INFO-PingTask stopped
+ 2024-12-29 23:10:57,922-INFO-NetworkTask stopped
+ 2024-12-29 23:10:57,922-INFO-Disconnected
+ 2024-12-29 23:10:57,922-INFO-Session stopped
+ 2024-12-29 23:10:57,928-INFO-Sending video...
+ 2024-12-29 23:10:58,077-INFO-Connecting...
+ 2024-12-29 23:10:58,306-INFO-Connected! Production DC1 - IPv4
+ 2024-12-29 23:10:58,306-INFO-NetworkTask started
+ 2024-12-29 23:10:58,842-INFO-Session initialized: Layer 195
+ 2024-12-29 23:10:58,842-INFO-Device: CPython 3.12.7 - Pyrogram 2.3.53
+ 2024-12-29 23:10:58,842-INFO-System: Linux 6.12.4-1-MANJARO (en)
+ 2024-12-29 23:10:58,842-INFO-Session started
+ 2024-12-29 23:10:58,844-INFO-PingTask started
+ 2024-12-29 23:10:59,200-INFO-Started 8 HandlerTasks
+ 2024-12-29 23:10:59,202-INFO-Connecting...
+ 2024-12-29 23:10:59,403-INFO-Connected! Production DC1 (media) - IPv4
+ 2024-12-29 23:10:59,403-INFO-NetworkTask started
+ 2024-12-29 23:11:00,023-INFO-Session initialized: Layer 195
+ 2024-12-29 23:11:00,023-INFO-Device: CPython 3.12.7 - Pyrogram 2.3.53
+ 2024-12-29 23:11:00,023-INFO-System: Linux 6.12.4-1-MANJARO (en)
+ 2024-12-29 23:11:00,023-INFO-Session started
+ 2024-12-29 23:11:00,023-INFO-PingTask started
+ 2024-12-29 23:11:00,214-INFO-PingTask stopped
+ 2024-12-29 23:11:00,215-INFO-NetworkTask stopped
+ 2024-12-29 23:11:00,215-INFO-Disconnected
+ 2024-12-29 23:11:00,215-INFO-Session stopped
+ 2024-12-29 23:11:00,218-INFO-Connecting...
+ 2024-12-29 23:11:00,379-INFO-Connected! Production DC1 (media) - IPv4
+ 2024-12-29 23:11:00,380-INFO-NetworkTask started
+ 2024-12-29 23:11:00,871-INFO-Session initialized: Layer 195
+ 2024-12-29 23:11:00,872-INFO-Device: CPython 3.12.7 - Pyrogram 2.3.53
+ 2024-12-29 23:11:00,872-INFO-System: Linux 6.12.4-1-MANJARO (en)
+ 2024-12-29 23:11:00,872-INFO-Session started
+ 2024-12-29 23:11:00,876-INFO-PingTask started
+ 2024-12-29 23:12:02,839-INFO-PingTask stopped
+ 2024-12-29 23:12:02,839-INFO-NetworkTask stopped
+ 2024-12-29 23:12:02,840-INFO-Disconnected
+ 2024-12-29 23:12:02,840-INFO-Session stopped
+ 2024-12-29 23:12:03,091-INFO-Stopped 8 HandlerTasks
+ 2024-12-29 23:12:03,091-INFO-PingTask stopped
+ 2024-12-29 23:12:03,092-INFO-NetworkTask stopped
+ 2024-12-29 23:12:03,092-INFO-Disconnected
+ 2024-12-29 23:12:03,092-INFO-Session stopped
+ 2024-12-29 23:12:03,099-INFO-Sending video...
+ 2024-12-29 23:12:03,300-INFO-Connecting...
+ 2024-12-29 23:12:03,517-INFO-Connected! Production DC1 - IPv4
+ 2024-12-29 23:12:03,517-INFO-NetworkTask started
+ 2024-12-29 23:12:04,187-INFO-Session initialized: Layer 195
+ 2024-12-29 23:12:04,187-INFO-Device: CPython 3.12.7 - Pyrogram 2.3.53
+ 2024-12-29 23:12:04,187-INFO-System: Linux 6.12.4-1-MANJARO (en)
+ 2024-12-29 23:12:04,187-INFO-Session started
+ 2024-12-29 23:12:04,189-INFO-PingTask started
+ 2024-12-29 23:12:04,651-INFO-Started 8 HandlerTasks
+ 2024-12-29 23:12:04,655-INFO-Connecting...
+ 2024-12-29 23:12:04,843-INFO-Connected! Production DC1 (media) - IPv4
+ 2024-12-29 23:12:04,843-INFO-NetworkTask started
+ 2024-12-29 23:12:06,198-INFO-Session initialized: Layer 195
+ 2024-12-29 23:12:06,199-INFO-Device: CPython 3.12.7 - Pyrogram 2.3.53
+ 2024-12-29 23:12:06,199-INFO-System: Linux 6.12.4-1-MANJARO (en)
+ 2024-12-29 23:12:06,199-INFO-Session started
+ 2024-12-29 23:12:06,199-INFO-PingTask started
+ 2024-12-29 23:12:07,277-INFO-PingTask stopped
+ 2024-12-29 23:12:07,277-INFO-NetworkTask stopped
+ 2024-12-29 23:12:07,277-INFO-Disconnected
+ 2024-12-29 23:12:07,277-INFO-Session stopped
+ 2024-12-29 23:12:07,280-INFO-Connecting...
+ 2024-12-29 23:12:07,442-INFO-Connected! Production DC1 (media) - IPv4
+ 2024-12-29 23:12:07,442-INFO-NetworkTask started
+ 2024-12-29 23:12:07,947-INFO-Session initialized: Layer 195
+ 2024-12-29 23:12:07,947-INFO-Device: CPython 3.12.7 - Pyrogram 2.3.53
+ 2024-12-29 23:12:07,947-INFO-System: Linux 6.12.4-1-MANJARO (en)
+ 2024-12-29 23:12:07,947-INFO-Session started
+ 2024-12-29 23:12:07,948-INFO-PingTask started
+ 2024-12-29 23:13:36,754-INFO-PingTask stopped
+ 2024-12-29 23:13:36,757-INFO-NetworkTask stopped
+ 2024-12-29 23:13:36,758-INFO-Disconnected
+ 2024-12-29 23:13:36,758-INFO-Session stopped
+ 2024-12-29 23:13:37,062-INFO-Stopped 8 HandlerTasks
+ 2024-12-29 23:13:37,062-INFO-PingTask stopped
+ 2024-12-29 23:13:37,063-INFO-NetworkTask stopped
+ 2024-12-29 23:13:37,063-INFO-Disconnected
+ 2024-12-29 23:13:37,063-INFO-Session stopped
+ 2024-12-29 23:13:37,071-INFO-Sending video...
+ 2024-12-29 23:13:37,239-INFO-Connecting...
+ 2024-12-29 23:13:37,455-INFO-Connected! Production DC1 - IPv4
+ 2024-12-29 23:13:37,455-INFO-NetworkTask started
+ 2024-12-29 23:13:38,256-INFO-Session initialized: Layer 195
+ 2024-12-29 23:13:38,256-INFO-Device: CPython 3.12.7 - Pyrogram 2.3.53
+ 2024-12-29 23:13:38,256-INFO-System: Linux 6.12.4-1-MANJARO (en)
+ 2024-12-29 23:13:38,256-INFO-Session started
+ 2024-12-29 23:13:38,258-INFO-PingTask started
+ 2024-12-29 23:13:38,801-INFO-Started 8 HandlerTasks
+ 2024-12-29 23:13:38,804-INFO-Connecting...
+ 2024-12-29 23:13:39,074-INFO-Connected! Production DC1 (media) - IPv4
+ 2024-12-29 23:13:39,074-INFO-NetworkTask started
+ 2024-12-29 23:13:39,791-INFO-Session initialized: Layer 195
+ 2024-12-29 23:13:39,791-INFO-Device: CPython 3.12.7 - Pyrogram 2.3.53
+ 2024-12-29 23:13:39,791-INFO-System: Linux 6.12.4-1-MANJARO (en)
+ 2024-12-29 23:13:39,791-INFO-Session started
+ 2024-12-29 23:13:39,791-INFO-PingTask started
+ 2024-12-29 23:13:40,405-INFO-PingTask stopped
+ 2024-12-29 23:13:40,406-INFO-NetworkTask stopped
+ 2024-12-29 23:13:40,406-INFO-Disconnected
+ 2024-12-29 23:13:40,406-INFO-Session stopped
+ 2024-12-29 23:13:40,408-INFO-Connecting...
+ 2024-12-29 23:13:40,820-INFO-Connected! Production DC1 (media) - IPv4
+ 2024-12-29 23:13:40,820-INFO-NetworkTask started
+ 2024-12-29 23:13:41,634-INFO-Session initialized: Layer 195
+ 2024-12-29 23:13:41,635-INFO-Device: CPython 3.12.7 - Pyrogram 2.3.53
+ 2024-12-29 23:13:41,635-INFO-System: Linux 6.12.4-1-MANJARO (en)
+ 2024-12-29 23:13:41,635-INFO-Session started
+ 2024-12-29 23:13:41,635-INFO-PingTask started
+ 2024-12-29 23:15:05,819-INFO-PingTask stopped
+ 2024-12-29 23:15:05,819-INFO-NetworkTask stopped
+ 2024-12-29 23:15:05,819-INFO-Disconnected
+ 2024-12-29 23:15:05,819-INFO-Session stopped
+ 2024-12-29 23:15:06,131-INFO-Stopped 8 HandlerTasks
+ 2024-12-29 23:15:06,131-INFO-PingTask stopped
+ 2024-12-29 23:15:06,131-INFO-NetworkTask stopped
+ 2024-12-29 23:15:06,131-INFO-Disconnected
+ 2024-12-29 23:15:06,131-INFO-Session stopped
+ 2024-12-29 23:15:06,137-INFO-Sending video...
+ 2024-12-29 23:15:06,305-INFO-Connecting...
+ 2024-12-29 23:15:06,469-INFO-Connected! Production DC1 - IPv4
+ 2024-12-29 23:15:06,469-INFO-NetworkTask started
+ 2024-12-29 23:15:07,103-INFO-Session initialized: Layer 195
+ 2024-12-29 23:15:07,103-INFO-Device: CPython 3.12.7 - Pyrogram 2.3.53
+ 2024-12-29 23:15:07,103-INFO-System: Linux 6.12.4-1-MANJARO (en)
+ 2024-12-29 23:15:07,103-INFO-Session started
+ 2024-12-29 23:15:07,105-INFO-PingTask started
+ 2024-12-29 23:15:07,658-INFO-Started 8 HandlerTasks
+ 2024-12-29 23:15:07,660-INFO-Connecting...
+ 2024-12-29 23:15:07,855-INFO-Connected! Production DC1 (media) - IPv4
+ 2024-12-29 23:15:07,855-INFO-NetworkTask started
+ 2024-12-29 23:15:08,470-INFO-Session initialized: Layer 195
+ 2024-12-29 23:15:08,471-INFO-Device: CPython 3.12.7 - Pyrogram 2.3.53
+ 2024-12-29 23:15:08,471-INFO-System: Linux 6.12.4-1-MANJARO (en)
+ 2024-12-29 23:15:08,471-INFO-Session started
+ 2024-12-29 23:15:08,471-INFO-PingTask started
+ 2024-12-29 23:15:08,807-INFO-PingTask stopped
+ 2024-12-29 23:15:08,807-INFO-NetworkTask stopped
+ 2024-12-29 23:15:08,808-INFO-Disconnected
+ 2024-12-29 23:15:08,808-INFO-Session stopped
+ 2024-12-29 23:15:08,810-INFO-Connecting...
+ 2024-12-29 23:15:09,086-INFO-Connected! Production DC1 (media) - IPv4
+ 2024-12-29 23:15:09,086-INFO-NetworkTask started
+ 2024-12-29 23:15:09,698-INFO-Session initialized: Layer 195
+ 2024-12-29 23:15:09,698-INFO-Device: CPython 3.12.7 - Pyrogram 2.3.53
+ 2024-12-29 23:15:09,698-INFO-System: Linux 6.12.4-1-MANJARO (en)
+ 2024-12-29 23:15:09,698-INFO-Session started
+ 2024-12-29 23:15:09,699-INFO-PingTask started
+ 2024-12-29 23:17:43,188-INFO-PingTask stopped
+ 2024-12-29 23:17:43,188-INFO-NetworkTask stopped
+ 2024-12-29 23:17:43,188-INFO-Disconnected
+ 2024-12-29 23:17:43,188-INFO-Session stopped
+ 2024-12-29 23:17:43,441-INFO-Stopped 8 HandlerTasks
+ 2024-12-29 23:17:43,442-INFO-PingTask stopped
+ 2024-12-29 23:17:43,442-INFO-NetworkTask stopped
+ 2024-12-29 23:17:43,442-INFO-Disconnected
+ 2024-12-29 23:17:43,442-INFO-Session stopped
+ 2024-12-29 23:17:43,447-INFO-Sending video...
+ 2024-12-29 23:17:43,664-INFO-Connecting...
+ 2024-12-29 23:17:43,849-INFO-Connected! Production DC1 - IPv4
+ 2024-12-29 23:17:43,850-INFO-NetworkTask started
+ 2024-12-29 23:17:44,445-INFO-Session initialized: Layer 195
+ 2024-12-29 23:17:44,445-INFO-Device: CPython 3.12.7 - Pyrogram 2.3.53
+ 2024-12-29 23:17:44,445-INFO-System: Linux 6.12.4-1-MANJARO (en)
+ 2024-12-29 23:17:44,445-INFO-Session started
+ 2024-12-29 23:17:44,454-INFO-PingTask started
+ 2024-12-29 23:17:45,043-INFO-Started 8 HandlerTasks
+ 2024-12-29 23:17:45,046-INFO-Connecting...
+ 2024-12-29 23:17:45,245-INFO-Connected! Production DC1 (media) - IPv4
+ 2024-12-29 23:17:45,245-INFO-NetworkTask started
+ 2024-12-29 23:17:45,859-INFO-Session initialized: Layer 195
+ 2024-12-29 23:17:45,859-INFO-Device: CPython 3.12.7 - Pyrogram 2.3.53
+ 2024-12-29 23:17:45,860-INFO-System: Linux 6.12.4-1-MANJARO (en)
+ 2024-12-29 23:17:45,860-INFO-Session started
+ 2024-12-29 23:17:45,860-INFO-PingTask started
+ 2024-12-29 23:17:46,066-INFO-PingTask stopped
+ 2024-12-29 23:17:46,066-INFO-NetworkTask stopped
+ 2024-12-29 23:17:46,066-INFO-Disconnected
+ 2024-12-29 23:17:46,066-INFO-Session stopped
+ 2024-12-29 23:17:46,068-INFO-Connecting...
+ 2024-12-29 23:17:46,268-INFO-Connected! Production DC1 (media) - IPv4
+ 2024-12-29 23:17:46,268-INFO-NetworkTask started
+ 2024-12-29 23:17:46,986-INFO-Session initialized: Layer 195
+ 2024-12-29 23:17:46,987-INFO-Device: CPython 3.12.7 - Pyrogram 2.3.53
+ 2024-12-29 23:17:46,987-INFO-System: Linux 6.12.4-1-MANJARO (en)
+ 2024-12-29 23:17:46,987-INFO-Session started
+ 2024-12-29 23:17:46,988-INFO-PingTask started
+ 2024-12-29 23:19:19,879-INFO-[1] Retrying "updates.GetChannelDifference" due to: Telegram says: [500 PERSISTENT_TIMESTAMP_OUTDATED] (caused by "updates.GetChannelDifference") Pyrogram 2.3.53 thinks: The persistent timestamp is outdated due to Telegram having internal problems. Please try again later
+ 2024-12-29 23:19:22,516-INFO-Stopped 8 HandlerTasks
+ 2024-12-29 23:19:22,516-INFO-PingTask stopped
+ 2024-12-29 23:19:22,517-INFO-NetworkTask stopped
+ 2024-12-29 23:19:22,517-INFO-Disconnected
+ 2024-12-29 23:19:22,517-INFO-Session stopped

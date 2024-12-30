@@ -1,0 +1,9 @@
+{project_name}
+
+{project_name}
+
+Size: {file_size}
+Length: {duration}
+Invite: {chat_invite_link}
+
+Via Zimatise - Legacy
