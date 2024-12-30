@@ -40,17 +40,19 @@ git clone https://github.com/YanEmmanuel/zimatise-lagacy.git
 cd zimatise-lagacy
 ```
 
-### 2. Install Dependencies
+### 2. Activate the Virtual Environment
+
+```bash
+poetry shell
+```
+
+### 3. Install Dependencies
 
 ```bash
 poetry install
 ```
 
-### 3. Activate the Virtual Environment
 
-```bash
-poetry shell
-```
 
 ## Configuration
 
@@ -100,7 +102,7 @@ Replace `YOUR_API_ID` and `YOUR_API_HASH` with your Telegram credentials.
 Use the Poetry environment to run the project:
 
 ```bash
-poetry run start
+python zimatise_one.py
 ```
 
 ### 2. Silent Mode
