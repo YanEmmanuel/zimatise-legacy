@@ -1,0 +1,521 @@
+ 2025-10-16 18:36:56,649-INFO-Find for video with extension: .mp4, .avi, .webm, .ts, .vob, .mov, .mkv, .wmv, .3gp, .flv, .ogv, .ogg, .rrc, .gifv, .mng, .qt, .yuv, .rm, .asf, .amv, .m4p, .m4v, .mpg, .mp2, .mpeg, .mpe, .mpv, .svi, .3g2, .mxf, .roq, .nsv, .f4v, .f4p, .f4a, .f4b
+ 2025-10-16 18:36:56,673-INFO-Selected file: 001 Pré-requisitos.mp4
+ 2025-10-16 18:36:56,674-INFO-Selected file: 002 O que é o DOCKER.mp4
+ 2025-10-16 18:36:56,675-INFO-___Unselected: 003 docker1.txt
+ 2025-10-16 18:36:56,676-INFO-Selected file: 003 Instalando o DOCKER.mp4
+ 2025-10-16 18:36:56,677-INFO-___Unselected: 004 Entre em contato.html
+ 2025-10-16 18:36:56,678-INFO-___Unselected: 001 docker2.txt
+ 2025-10-16 18:36:56,678-INFO-Selected file: 001 Realizando o download de imagens.mp4
+ 2025-10-16 18:36:56,679-INFO-Selected file: 002 Executando um contêiner.mp4
+ 2025-10-16 18:36:56,679-INFO-Selected file: 003 Velha sintaxe e a Nova sintaxe.mp4
+ 2025-10-16 18:36:56,679-INFO-___Unselected: 004 docker3.txt
+ 2025-10-16 18:36:56,679-INFO-Selected file: 004 Executando aplicações no contêiner.mp4
+ 2025-10-16 18:36:56,679-INFO-___Unselected: 005 docker4.txt
+ 2025-10-16 18:36:56,680-INFO-Selected file: 005 Excluindo e nomeando conteinêres.mp4
+ 2025-10-16 18:36:56,680-INFO-Selected file: 006 Copiando arquivos para o contêiner.mp4
+ 2025-10-16 18:36:56,680-INFO-___Unselected: 006 docker5.txt
+ 2025-10-16 18:36:56,680-INFO-Selected file: 007 Copiando arquivos do contêiner.mp4
+ 2025-10-16 18:36:56,680-INFO-___Unselected: 007 docker6.txt
+ 2025-10-16 18:36:56,680-INFO-Selected file: 008 Tags.mp4
+ 2025-10-16 18:36:56,680-INFO-___Unselected: 009 Conheça outros cursos.html
+ 2025-10-16 18:36:56,680-INFO-Selected file: 010 Criando um contêiner do MySQL.mp4
+ 2025-10-16 18:36:56,680-INFO-___Unselected: 010 docker7.txt
+ 2025-10-16 18:36:56,680-INFO-Selected file: 011 Acessando o contêiner externamente.mp4
+ 2025-10-16 18:36:56,681-INFO-___Unselected: 011 SQL.txt
+ 2025-10-16 18:36:56,681-INFO-Selected file: 012 Parando e reiniciando um contêiner.mp4
+ 2025-10-16 18:36:56,681-INFO-___Unselected: 013 docker8.txt
+ 2025-10-16 18:36:56,681-INFO-Selected file: 013 Montando (mount) um local de armazenamento.mp4
+ 2025-10-16 18:36:56,681-INFO-Selected file: 014 Tipos de mount (bind, named, dockerfile volume).mp4
+ 2025-10-16 18:36:56,681-INFO-___Unselected: 015 docker12.txt
+ 2025-10-16 18:36:56,681-INFO-Selected file: 015 Exemplos de tipos de mount, na prática.mp4
+ 2025-10-16 18:36:56,681-INFO-Selected file: 016 Mount - Conclusão.mp4
+ 2025-10-16 18:36:56,681-INFO-___Unselected: 017 docker9.txt
+ 2025-10-16 18:36:56,682-INFO-Selected file: 017 Exemplo Apache Contêiner.mp4
+ 2025-10-16 18:36:56,682-INFO-Selected file: 018 Exemplo PHP-Apache Contêiner.mp4
+ 2025-10-16 18:36:56,682-INFO-___Unselected: 019 docker10.txt
+ 2025-10-16 18:36:56,682-INFO-Selected file: 019 Limitando memória e CPU.mp4
+ 2025-10-16 18:36:56,682-INFO-Selected file: 020 Informações, logs e processos.mp4
+ 2025-10-16 18:36:56,682-INFO-___Unselected: 021 docker21.txt
+ 2025-10-16 18:36:56,682-INFO-Selected file: 021 Redes.mp4
+ 2025-10-16 18:36:56,682-INFO-___Unselected: 001 docker11.txt
+ 2025-10-16 18:36:56,682-INFO-Selected file: 001 Primeiro Docker File.mp4
+ 2025-10-16 18:36:56,682-INFO-Selected file: 002 Criando uma imagem personalizada do APACHE.mp4
+ 2025-10-16 18:36:56,682-INFO-___Unselected: 002 docker13.txt
+ 2025-10-16 18:36:56,682-INFO-___Unselected: 003 docker14.txt
+ 2025-10-16 18:36:56,682-INFO-Selected file: 003 Utilizando uma imagem personalizada a partir da imagem do Python.mp4
+ 2025-10-16 18:36:56,682-INFO-Selected file: 004 Criando uma imagem Multistage.mp4
+ 2025-10-16 18:36:56,683-INFO-___Unselected: 004 docker15.txt
+ 2025-10-16 18:36:56,683-INFO-___Unselected: 005 docker16.txt
+ 2025-10-16 18:36:56,683-INFO-Selected file: 005 Realizando o upload de imagens para o Docker Hub.mp4
+ 2025-10-16 18:36:56,683-INFO-___Unselected: 006 docker17.txt
+ 2025-10-16 18:36:56,683-INFO-Selected file: 006 Registry Criando um servidor de imagens.mp4
+ 2025-10-16 18:36:56,683-INFO-Selected file: 001 Definição e instalação.mp4
+ 2025-10-16 18:36:56,684-INFO-___Unselected: 002 docker22.txt
+ 2025-10-16 18:36:56,684-INFO-Selected file: 002 Docker-compose Exemplo prático.mp4
+ 2025-10-16 18:36:56,684-INFO-Selected file: 003 docker-compose down.mp4
+ 2025-10-16 18:36:56,684-INFO-___Unselected: 004 docker23.txt
+ 2025-10-16 18:36:56,684-INFO-Selected file: 004 Exemplo PHP-APACHE-MYSQL.mp4
+ 2025-10-16 18:36:56,684-INFO-Selected file: 005 Utilizando exemplos do GitHub oficial.mp4
+ 2025-10-16 18:36:56,685-INFO-Selected file: 001 Definição e instalação.mp4
+ 2025-10-16 18:36:56,685-INFO-Selected file: 002 Instalação do Docker Machine no WIndows.mp4
+ 2025-10-16 18:36:56,685-INFO-___Unselected: 003 docker24.txt
+ 2025-10-16 18:36:56,685-INFO-Selected file: 003 Utilizando o docker machine.mp4
+ 2025-10-16 18:36:56,685-INFO-Selected file: 004 Exemplo prático Amazon Web Services (AWS).mp4
+ 2025-10-16 18:36:56,686-INFO-Selected file: 005 Exemplo prático Amazon Web Services (AWS) parte 2.mp4
+ 2025-10-16 18:36:56,686-INFO-Selected file: 006 Exemplo prático Amazon Web Services (AWS) parte 3.mp4
+ 2025-10-16 18:36:56,686-INFO-Selected file: 007 Excluindo as máquinas virtuais.mp4
+ 2025-10-16 18:36:56,686-INFO-Selected file: 001 O que é um cluster.mp4
+ 2025-10-16 18:36:56,686-INFO-Selected file: 002 Criando um cluster Swarm.mp4
+ 2025-10-16 18:36:56,686-INFO-___Unselected: 002 docker25.txt
+ 2025-10-16 18:36:56,686-INFO-___Unselected: 003 docker26.txt
+ 2025-10-16 18:36:56,687-INFO-Selected file: 003 Gerenciando o cluster Swarm - Parte 1.mp4
+ 2025-10-16 18:36:56,687-INFO-___Unselected: 004 docker27.txt
+ 2025-10-16 18:36:56,687-INFO-Selected file: 004 Gerenciando o cluster Swarm - Parte 2.mp4
+ 2025-10-16 18:36:56,687-INFO-Selected file: 005 Gerenciando o cluster Swarm - Parte 3.mp4
+ 2025-10-16 18:36:56,687-INFO-Selected file: 006 Gerenciando o cluster Swarm - Parte 4.mp4
+ 2025-10-16 18:36:56,687-INFO-Selected file: 007 Volumes em um cluster Swarm - Criando laboratório - Parte 1.mp4
+ 2025-10-16 18:36:56,687-INFO-___Unselected: 008 docker28.txt
+ 2025-10-16 18:36:56,687-INFO-Selected file: 008 Volumes em um cluster Swarm - Criando laboratório - Parte 2.mp4
+ 2025-10-16 18:36:56,687-INFO-___Unselected: 009 docker29.txt
+ 2025-10-16 18:36:56,687-INFO-Selected file: 009 Volumes em um cluster Swarm - Criando laboratório - Parte 3.mp4
+ 2025-10-16 18:36:56,688-INFO-___Unselected: 010 aula31.txt
+ 2025-10-16 18:36:56,688-INFO-Selected file: 010 Volumes em um cluster Swarm - Criando laboratório - Parte 4.mp4
+ 2025-10-16 18:36:56,688-INFO-___Unselected: 011 aula32.txt
+ 2025-10-16 18:36:56,688-INFO-Selected file: 011 Volumes em um cluster Swarm - Criando laboratório - Parte 5.mp4
+ 2025-10-16 18:36:56,689-INFO-Selected file: 001 Teste de carga.mp4
+ 2025-10-16 18:36:56,689-INFO-Selected file: 002 Criando um AWS Load Balancer.mp4
+ 2025-10-16 18:36:56,690-INFO-Selected file: 003 Criando um Proxy NGINX.mp4
+ 2025-10-16 18:36:56,691-INFO-___Unselected: 003 Proxy.txt
+ 2025-10-16 18:36:56,692-INFO-Selected file: 004 Stacks e Services.mp4
+ 2025-10-16 18:36:56,692-INFO-___Unselected: 005 docker31.txt
+ 2025-10-16 18:36:56,692-INFO-Selected file: 005 Node Label  Stack Deploy.mp4
+ 2025-10-16 18:36:56,694-INFO-___Unselected: 006 Conheça outros cursos.html
+ 2025-10-16 18:36:56,694-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/01 - Introdução e laboratório virtual de estudos/001 Pré-requisitos.mp4
+ 2025-10-16 18:36:56,955-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/01 - Introdução e laboratório virtual de estudos/002 O que é o DOCKER.mp4
+ 2025-10-16 18:37:05,479-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/01 - Introdução e laboratório virtual de estudos/003 Instalando o DOCKER.mp4
+ 2025-10-16 18:37:06,446-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/02 - Criação e edição de contêineres/001 Realizando o download de imagens.mp4
+ 2025-10-16 18:37:07,612-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/02 - Criação e edição de contêineres/002 Executando um contêiner.mp4
+ 2025-10-16 18:37:10,693-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/02 - Criação e edição de contêineres/003 Velha sintaxe e a Nova sintaxe.mp4
+ 2025-10-16 18:37:10,977-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/02 - Criação e edição de contêineres/004 Executando aplicações no contêiner.mp4
+ 2025-10-16 18:37:12,227-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/02 - Criação e edição de contêineres/005 Excluindo e nomeando conteinêres.mp4
+ 2025-10-16 18:37:13,709-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/02 - Criação e edição de contêineres/006 Copiando arquivos para o contêiner.mp4
+ 2025-10-16 18:37:13,899-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/02 - Criação e edição de contêineres/007 Copiando arquivos do contêiner.mp4
+ 2025-10-16 18:37:14,081-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/02 - Criação e edição de contêineres/008 Tags.mp4
+ 2025-10-16 18:37:14,454-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/02 - Criação e edição de contêineres/010 Criando um contêiner do MySQL.mp4
+ 2025-10-16 18:37:23,075-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/02 - Criação e edição de contêineres/011 Acessando o contêiner externamente.mp4
+ 2025-10-16 18:37:23,869-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/02 - Criação e edição de contêineres/012 Parando e reiniciando um contêiner.mp4
+ 2025-10-16 18:37:24,439-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/02 - Criação e edição de contêineres/013 Montando (mount) um local de armazenamento.mp4
+ 2025-10-16 18:37:25,676-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/02 - Criação e edição de contêineres/014 Tipos de mount (bind, named, dockerfile volume).mp4
+ 2025-10-16 18:37:26,050-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/02 - Criação e edição de contêineres/015 Exemplos de tipos de mount, na prática.mp4
+ 2025-10-16 18:37:33,030-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/02 - Criação e edição de contêineres/016 Mount - Conclusão.mp4
+ 2025-10-16 18:37:33,910-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/02 - Criação e edição de contêineres/017 Exemplo Apache Contêiner.mp4
+ 2025-10-16 18:37:34,545-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/02 - Criação e edição de contêineres/018 Exemplo PHP-Apache Contêiner.mp4
+ 2025-10-16 18:37:35,355-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/02 - Criação e edição de contêineres/019 Limitando memória e CPU.mp4
+ 2025-10-16 18:37:38,573-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/02 - Criação e edição de contêineres/020 Informações, logs e processos.mp4
+ 2025-10-16 18:37:39,073-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/02 - Criação e edição de contêineres/021 Redes.mp4
+ 2025-10-16 18:37:41,167-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/03 - Criação e edição de imagens/001 Primeiro Docker File.mp4
+ 2025-10-16 18:37:48,680-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/03 - Criação e edição de imagens/002 Criando uma imagem personalizada do APACHE.mp4
+ 2025-10-16 18:37:55,810-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/03 - Criação e edição de imagens/003 Utilizando uma imagem personalizada a partir da imagem do Python.mp4
+ 2025-10-16 18:37:57,420-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/03 - Criação e edição de imagens/004 Criando uma imagem Multistage.mp4
+ 2025-10-16 18:38:00,492-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/03 - Criação e edição de imagens/005 Realizando o upload de imagens para o Docker Hub.mp4
+ 2025-10-16 18:38:01,968-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/03 - Criação e edição de imagens/006 Registry Criando um servidor de imagens.mp4
+ 2025-10-16 18:38:06,489-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/04 - Docker Compose/001 Definição e instalação.mp4
+ 2025-10-16 18:38:07,580-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/04 - Docker Compose/002 Docker-compose Exemplo prático.mp4
+ 2025-10-16 18:38:11,046-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/04 - Docker Compose/003 docker-compose down.mp4
+ 2025-10-16 18:38:11,939-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/04 - Docker Compose/004 Exemplo PHP-APACHE-MYSQL.mp4
+ 2025-10-16 18:38:22,930-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/04 - Docker Compose/005 Utilizando exemplos do GitHub oficial.mp4
+ 2025-10-16 18:38:26,118-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/05 - Docker Machine/001 Definição e instalação.mp4
+ 2025-10-16 18:38:26,602-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/05 - Docker Machine/002 Instalação do Docker Machine no WIndows.mp4
+ 2025-10-16 18:38:26,855-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/05 - Docker Machine/003 Utilizando o docker machine.mp4
+ 2025-10-16 18:38:31,775-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/05 - Docker Machine/004 Exemplo prático Amazon Web Services (AWS).mp4
+ 2025-10-16 18:38:32,582-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/05 - Docker Machine/005 Exemplo prático Amazon Web Services (AWS) parte 2.mp4
+ 2025-10-16 18:38:32,781-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/05 - Docker Machine/006 Exemplo prático Amazon Web Services (AWS) parte 3.mp4
+ 2025-10-16 18:38:33,421-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/05 - Docker Machine/007 Excluindo as máquinas virtuais.mp4
+ 2025-10-16 18:38:33,619-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/06 - Docker Swarm/001 O que é um cluster.mp4
+ 2025-10-16 18:38:35,603-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/06 - Docker Swarm/002 Criando um cluster Swarm.mp4
+ 2025-10-16 18:38:37,762-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/06 - Docker Swarm/003 Gerenciando o cluster Swarm - Parte 1.mp4
+ 2025-10-16 18:38:39,218-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/06 - Docker Swarm/004 Gerenciando o cluster Swarm - Parte 2.mp4
+ 2025-10-16 18:38:39,950-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/06 - Docker Swarm/005 Gerenciando o cluster Swarm - Parte 3.mp4
+ 2025-10-16 18:38:46,969-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/06 - Docker Swarm/006 Gerenciando o cluster Swarm - Parte 4.mp4
+ 2025-10-16 18:38:47,201-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/06 - Docker Swarm/007 Volumes em um cluster Swarm - Criando laboratório - Parte 1.mp4
+ 2025-10-16 18:38:51,302-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/06 - Docker Swarm/008 Volumes em um cluster Swarm - Criando laboratório - Parte 2.mp4
+ 2025-10-16 18:38:56,523-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/06 - Docker Swarm/009 Volumes em um cluster Swarm - Criando laboratório - Parte 3.mp4
+ 2025-10-16 18:39:05,104-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/06 - Docker Swarm/010 Volumes em um cluster Swarm - Criando laboratório - Parte 4.mp4
+ 2025-10-16 18:39:10,325-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/06 - Docker Swarm/011 Volumes em um cluster Swarm - Criando laboratório - Parte 5.mp4
+ 2025-10-16 18:39:13,081-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/07 - Teste de carga e load balance/001 Teste de carga.mp4
+ 2025-10-16 18:39:13,270-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/07 - Teste de carga e load balance/002 Criando um AWS Load Balancer.mp4
+ 2025-10-16 18:39:20,589-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/07 - Teste de carga e load balance/003 Criando um Proxy NGINX.mp4
+ 2025-10-16 18:39:27,574-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/07 - Teste de carga e load balance/004 Stacks e Services.mp4
+ 2025-10-16 18:39:27,982-INFO-Catching video metadata: /home/yan/Documentos/Torrents/Cursos/Aprenda docker simples e rapido/07 - Teste de carga e load balance/005 Node Label  Stack Deploy.mp4
+ 2025-10-16 18:39:43,810-INFO-
+There are no videos to reencode
+ 2025-10-16 18:43:41,720-INFO-Start creating a new auth key on DC2
+ 2025-10-16 18:43:41,721-INFO-Connecting...
+ 2025-10-16 18:43:41,925-INFO-Connected! Production DC2 - IPv4
+ 2025-10-16 18:43:44,257-INFO-Done auth key exchange: DhGenOk
+ 2025-10-16 18:43:44,260-INFO-Disconnected
+ 2025-10-16 18:43:44,289-INFO-Connecting...
+ 2025-10-16 18:43:44,513-INFO-Connected! Production DC2 - IPv4
+ 2025-10-16 18:43:44,517-INFO-NetworkTask started
+ 2025-10-16 18:43:45,255-INFO-Session initialized: Layer 207
+ 2025-10-16 18:43:45,256-INFO-Device: CPython 3.13.7 - Pyrogram 2.3.68
+ 2025-10-16 18:43:45,256-INFO-System: Linux 6.14.0-2-rt3-MANJARO (en)
+ 2025-10-16 18:43:45,256-INFO-Session started
+ 2025-10-16 18:43:45,265-INFO-PingTask started
+ 2025-10-16 18:44:08,565-INFO-PingTask stopped
+ 2025-10-16 18:44:08,566-INFO-NetworkTask stopped
+ 2025-10-16 18:44:08,566-INFO-Disconnected
+ 2025-10-16 18:44:08,566-INFO-Session stopped
+ 2025-10-16 18:44:08,580-INFO-Start creating a new auth key on DC1
+ 2025-10-16 18:44:08,580-INFO-Connecting...
+ 2025-10-16 18:44:08,705-INFO-Connected! Production DC1 - IPv4
+ 2025-10-16 18:44:10,192-INFO-Done auth key exchange: DhGenOk
+ 2025-10-16 18:44:10,192-INFO-Disconnected
+ 2025-10-16 18:44:10,206-INFO-Connecting...
+ 2025-10-16 18:44:10,338-INFO-Connected! Production DC1 - IPv4
+ 2025-10-16 18:44:10,338-INFO-NetworkTask started
+ 2025-10-16 18:44:10,768-INFO-Session initialized: Layer 207
+ 2025-10-16 18:44:10,769-INFO-Device: CPython 3.13.7 - Pyrogram 2.3.68
+ 2025-10-16 18:44:10,769-INFO-System: Linux 6.14.0-2-rt3-MANJARO (en)
+ 2025-10-16 18:44:10,769-INFO-Session started
+ 2025-10-16 18:44:10,770-INFO-PingTask started
+ 2025-10-16 18:44:24,964-INFO-Started 8 HandlerTasks
+ 2025-10-16 18:44:25,331-INFO-Stopped 8 HandlerTasks
+ 2025-10-16 18:44:25,333-INFO-PingTask stopped
+ 2025-10-16 18:44:25,333-INFO-NetworkTask stopped
+ 2025-10-16 18:44:25,333-INFO-Disconnected
+ 2025-10-16 18:44:25,333-INFO-Session stopped
+ 2025-10-16 18:44:25,366-INFO-Connecting...
+ 2025-10-16 18:44:25,496-INFO-Connected! Production DC1 - IPv4
+ 2025-10-16 18:44:25,497-INFO-NetworkTask started
+ 2025-10-16 18:44:25,905-INFO-Session initialized: Layer 207
+ 2025-10-16 18:44:25,905-INFO-Device: CPython 3.13.7 - Pyrogram 2.3.68
+ 2025-10-16 18:44:25,905-INFO-System: Linux 6.14.0-2-rt3-MANJARO (en)
+ 2025-10-16 18:44:25,905-INFO-Session started
+ 2025-10-16 18:44:25,913-INFO-PingTask started
+ 2025-10-16 18:44:26,222-INFO-Started 8 HandlerTasks
+ 2025-10-16 18:44:26,569-INFO-Stopped 8 HandlerTasks
+ 2025-10-16 18:44:26,569-INFO-PingTask stopped
+ 2025-10-16 18:44:26,569-INFO-NetworkTask stopped
+ 2025-10-16 18:44:26,569-INFO-Disconnected
+ 2025-10-16 18:44:26,569-INFO-Session stopped
+ 2025-10-16 18:44:26,596-INFO-Connecting...
+ 2025-10-16 18:44:26,729-INFO-Connected! Production DC1 - IPv4
+ 2025-10-16 18:44:26,730-INFO-NetworkTask started
+ 2025-10-16 18:44:27,185-INFO-Session initialized: Layer 207
+ 2025-10-16 18:44:27,185-INFO-Device: CPython 3.13.7 - Pyrogram 2.3.68
+ 2025-10-16 18:44:27,185-INFO-System: Linux 6.14.0-2-rt3-MANJARO (en)
+ 2025-10-16 18:44:27,186-INFO-Session started
+ 2025-10-16 18:44:27,188-INFO-PingTask started
+ 2025-10-16 18:44:27,521-INFO-Started 8 HandlerTasks
+ 2025-10-16 18:44:27,701-INFO-Stopped 8 HandlerTasks
+ 2025-10-16 18:44:27,702-INFO-PingTask stopped
+ 2025-10-16 18:44:27,702-INFO-NetworkTask stopped
+ 2025-10-16 18:44:27,702-INFO-Disconnected
+ 2025-10-16 18:44:27,702-INFO-Session stopped
+ 2025-10-16 18:44:27,730-INFO-Connecting...
+ 2025-10-16 18:44:27,855-INFO-Connected! Production DC1 - IPv4
+ 2025-10-16 18:44:27,857-INFO-NetworkTask started
+ 2025-10-16 18:44:28,331-INFO-Session initialized: Layer 207
+ 2025-10-16 18:44:28,331-INFO-Device: CPython 3.13.7 - Pyrogram 2.3.68
+ 2025-10-16 18:44:28,331-INFO-System: Linux 6.14.0-2-rt3-MANJARO (en)
+ 2025-10-16 18:44:28,331-INFO-Session started
+ 2025-10-16 18:44:28,337-INFO-PingTask started
+ 2025-10-16 18:44:28,658-INFO-Started 8 HandlerTasks
+ 2025-10-16 18:44:28,821-INFO-Stopped 8 HandlerTasks
+ 2025-10-16 18:44:28,821-INFO-PingTask stopped
+ 2025-10-16 18:44:28,821-INFO-NetworkTask stopped
+ 2025-10-16 18:44:28,821-INFO-Disconnected
+ 2025-10-16 18:44:28,822-INFO-Session stopped
+ 2025-10-16 18:44:28,870-INFO-Sending document...
+ 2025-10-16 18:44:28,906-INFO-Connecting...
+ 2025-10-16 18:44:29,032-INFO-Connected! Production DC1 - IPv4
+ 2025-10-16 18:44:29,033-INFO-NetworkTask started
+ 2025-10-16 18:44:29,453-INFO-Session initialized: Layer 207
+ 2025-10-16 18:44:29,453-INFO-Device: CPython 3.13.7 - Pyrogram 2.3.68
+ 2025-10-16 18:44:29,453-INFO-System: Linux 6.14.0-2-rt3-MANJARO (en)
+ 2025-10-16 18:44:29,453-INFO-Session started
+ 2025-10-16 18:44:29,456-INFO-PingTask started
+ 2025-10-16 18:44:29,748-WARNING-[user] Waiting for 6 seconds before continuing (required by "users.GetFullUser")
+ 2025-10-16 18:44:35,920-INFO-Started 8 HandlerTasks
+ 2025-10-16 18:44:35,932-INFO-Connecting...
+ 2025-10-16 18:44:36,070-INFO-Connected! Production DC1 (media) - IPv4
+ 2025-10-16 18:44:36,072-INFO-NetworkTask started
+ 2025-10-16 18:44:36,521-INFO-Session initialized: Layer 207
+ 2025-10-16 18:44:36,522-INFO-Device: CPython 3.13.7 - Pyrogram 2.3.68
+ 2025-10-16 18:44:36,522-INFO-System: Linux 6.14.0-2-rt3-MANJARO (en)
+ 2025-10-16 18:44:36,522-INFO-Session started
+ 2025-10-16 18:44:36,523-INFO-PingTask started
+ 2025-10-16 18:44:36,923-INFO-PingTask stopped
+ 2025-10-16 18:44:36,924-INFO-NetworkTask stopped
+ 2025-10-16 18:44:36,924-INFO-Disconnected
+ 2025-10-16 18:44:36,924-INFO-Session stopped
+ 2025-10-16 18:44:37,153-INFO-Stopped 8 HandlerTasks
+ 2025-10-16 18:44:37,153-INFO-PingTask stopped
+ 2025-10-16 18:44:37,153-INFO-NetworkTask stopped
+ 2025-10-16 18:44:37,153-INFO-Disconnected
+ 2025-10-16 18:44:37,153-INFO-Session stopped
+ 2025-10-16 18:44:37,172-INFO-Sending video...
+ 2025-10-16 18:44:37,880-INFO-Connecting...
+ 2025-10-16 18:44:38,064-INFO-Connected! Production DC1 - IPv4
+ 2025-10-16 18:44:38,071-INFO-NetworkTask started
+ 2025-10-16 18:44:38,512-INFO-Session initialized: Layer 207
+ 2025-10-16 18:44:38,512-INFO-Device: CPython 3.13.7 - Pyrogram 2.3.68
+ 2025-10-16 18:44:38,513-INFO-System: Linux 6.14.0-2-rt3-MANJARO (en)
+ 2025-10-16 18:44:38,514-INFO-Session started
+ 2025-10-16 18:44:38,522-INFO-PingTask started
+ 2025-10-16 18:44:38,849-INFO-Started 8 HandlerTasks
+ 2025-10-16 18:44:38,861-INFO-Connecting...
+ 2025-10-16 18:44:38,988-INFO-Connected! Production DC1 (media) - IPv4
+ 2025-10-16 18:44:38,988-INFO-NetworkTask started
+ 2025-10-16 18:44:39,396-INFO-Session initialized: Layer 207
+ 2025-10-16 18:44:39,397-INFO-Device: CPython 3.13.7 - Pyrogram 2.3.68
+ 2025-10-16 18:44:39,397-INFO-System: Linux 6.14.0-2-rt3-MANJARO (en)
+ 2025-10-16 18:44:39,397-INFO-Session started
+ 2025-10-16 18:44:39,398-INFO-PingTask started
+ 2025-10-16 18:44:39,791-INFO-PingTask stopped
+ 2025-10-16 18:44:39,791-INFO-NetworkTask stopped
+ 2025-10-16 18:44:39,792-INFO-Disconnected
+ 2025-10-16 18:44:39,792-INFO-Session stopped
+ 2025-10-16 18:44:39,805-INFO-Connecting...
+ 2025-10-16 18:44:39,939-INFO-Connected! Production DC1 (media) - IPv4
+ 2025-10-16 18:44:39,940-INFO-NetworkTask started
+ 2025-10-16 18:44:40,359-INFO-Session initialized: Layer 207
+ 2025-10-16 18:44:40,360-INFO-Device: CPython 3.13.7 - Pyrogram 2.3.68
+ 2025-10-16 18:44:40,360-INFO-System: Linux 6.14.0-2-rt3-MANJARO (en)
+ 2025-10-16 18:44:40,361-INFO-Session started
+ 2025-10-16 18:44:40,368-INFO-PingTask started
+ 2025-10-16 18:44:48,562-INFO-PingTask stopped
+ 2025-10-16 18:44:48,562-INFO-NetworkTask stopped
+ 2025-10-16 18:44:48,563-INFO-Disconnected
+ 2025-10-16 18:44:48,563-INFO-Session stopped
+ 2025-10-16 18:44:49,184-INFO-Stopped 8 HandlerTasks
+ 2025-10-16 18:44:49,184-INFO-PingTask stopped
+ 2025-10-16 18:44:49,184-INFO-NetworkTask stopped
+ 2025-10-16 18:44:49,185-INFO-Disconnected
+ 2025-10-16 18:44:49,185-INFO-Session stopped
+ 2025-10-16 18:44:49,202-INFO-Sending video...
+ 2025-10-16 18:45:06,400-INFO-Connecting...
+ 2025-10-16 18:45:06,536-INFO-Connected! Production DC1 - IPv4
+ 2025-10-16 18:45:06,539-INFO-NetworkTask started
+ 2025-10-16 18:45:06,979-INFO-Session initialized: Layer 207
+ 2025-10-16 18:45:06,979-INFO-Device: CPython 3.13.7 - Pyrogram 2.3.68
+ 2025-10-16 18:45:06,979-INFO-System: Linux 6.14.0-2-rt3-MANJARO (en)
+ 2025-10-16 18:45:06,979-INFO-Session started
+ 2025-10-16 18:45:06,982-INFO-PingTask started
+ 2025-10-16 18:45:07,301-INFO-Started 8 HandlerTasks
+ 2025-10-16 18:45:07,309-INFO-Connecting...
+ 2025-10-16 18:45:07,448-INFO-Connected! Production DC1 (media) - IPv4
+ 2025-10-16 18:45:07,448-INFO-NetworkTask started
+ 2025-10-16 18:45:07,912-INFO-Session initialized: Layer 207
+ 2025-10-16 18:45:07,912-INFO-Device: CPython 3.13.7 - Pyrogram 2.3.68
+ 2025-10-16 18:45:07,912-INFO-System: Linux 6.14.0-2-rt3-MANJARO (en)
+ 2025-10-16 18:45:07,912-INFO-Session started
+ 2025-10-16 18:45:07,913-INFO-PingTask started
+ 2025-10-16 18:45:08,205-INFO-PingTask stopped
+ 2025-10-16 18:45:08,206-INFO-NetworkTask stopped
+ 2025-10-16 18:45:08,207-INFO-Disconnected
+ 2025-10-16 18:45:08,207-INFO-Session stopped
+ 2025-10-16 18:45:08,212-INFO-Connecting...
+ 2025-10-16 18:45:08,362-INFO-Connected! Production DC1 (media) - IPv4
+ 2025-10-16 18:45:08,363-INFO-NetworkTask started
+ 2025-10-16 18:45:08,791-INFO-Session initialized: Layer 207
+ 2025-10-16 18:45:08,792-INFO-Device: CPython 3.13.7 - Pyrogram 2.3.68
+ 2025-10-16 18:45:08,792-INFO-System: Linux 6.14.0-2-rt3-MANJARO (en)
+ 2025-10-16 18:45:08,792-INFO-Session started
+ 2025-10-16 18:45:08,796-INFO-PingTask started
+ 2025-10-16 18:46:13,988-INFO-PingTask stopped
+ 2025-10-16 18:46:13,997-INFO-NetworkTask stopped
+ 2025-10-16 18:46:13,998-INFO-Disconnected
+ 2025-10-16 18:46:13,998-INFO-Session stopped
+ 2025-10-16 18:46:14,276-INFO-Stopped 8 HandlerTasks
+ 2025-10-16 18:46:14,277-INFO-PingTask stopped
+ 2025-10-16 18:46:14,277-INFO-NetworkTask stopped
+ 2025-10-16 18:46:14,277-INFO-Disconnected
+ 2025-10-16 18:46:14,277-INFO-Session stopped
+ 2025-10-16 18:46:14,300-INFO-Sending video...
+ 2025-10-16 18:46:18,341-INFO-Connecting...
+ 2025-10-16 18:46:18,478-INFO-Connected! Production DC1 - IPv4
+ 2025-10-16 18:46:18,479-INFO-NetworkTask started
+ 2025-10-16 18:46:18,922-INFO-Session initialized: Layer 207
+ 2025-10-16 18:46:18,922-INFO-Device: CPython 3.13.7 - Pyrogram 2.3.68
+ 2025-10-16 18:46:18,922-INFO-System: Linux 6.14.0-2-rt3-MANJARO (en)
+ 2025-10-16 18:46:18,922-INFO-Session started
+ 2025-10-16 18:46:18,926-INFO-PingTask started
+ 2025-10-16 18:46:19,276-INFO-Started 8 HandlerTasks
+ 2025-10-16 18:46:19,288-INFO-Connecting...
+ 2025-10-16 18:46:19,421-INFO-Connected! Production DC1 (media) - IPv4
+ 2025-10-16 18:46:19,422-INFO-NetworkTask started
+ 2025-10-16 18:46:19,857-INFO-Session initialized: Layer 207
+ 2025-10-16 18:46:19,857-INFO-Device: CPython 3.13.7 - Pyrogram 2.3.68
+ 2025-10-16 18:46:19,857-INFO-System: Linux 6.14.0-2-rt3-MANJARO (en)
+ 2025-10-16 18:46:19,857-INFO-Session started
+ 2025-10-16 18:46:19,858-INFO-PingTask started
+ 2025-10-16 18:46:20,303-INFO-PingTask stopped
+ 2025-10-16 18:46:20,305-INFO-NetworkTask stopped
+ 2025-10-16 18:46:20,305-INFO-Disconnected
+ 2025-10-16 18:46:20,306-INFO-Session stopped
+ 2025-10-16 18:46:20,318-INFO-Connecting...
+ 2025-10-16 18:46:20,456-INFO-Connected! Production DC1 (media) - IPv4
+ 2025-10-16 18:46:20,456-INFO-NetworkTask started
+ 2025-10-16 18:46:20,866-INFO-Session initialized: Layer 207
+ 2025-10-16 18:46:20,867-INFO-Device: CPython 3.13.7 - Pyrogram 2.3.68
+ 2025-10-16 18:46:20,870-INFO-System: Linux 6.14.0-2-rt3-MANJARO (en)
+ 2025-10-16 18:46:20,870-INFO-Session started
+ 2025-10-16 18:46:20,873-INFO-PingTask started
+ 2025-10-16 18:46:56,342-INFO-PingTask stopped
+ 2025-10-16 18:46:56,342-INFO-NetworkTask stopped
+ 2025-10-16 18:46:56,342-INFO-Disconnected
+ 2025-10-16 18:46:56,343-INFO-Session stopped
+ 2025-10-16 18:46:56,633-INFO-Stopped 8 HandlerTasks
+ 2025-10-16 18:46:56,634-INFO-PingTask stopped
+ 2025-10-16 18:46:56,635-INFO-NetworkTask stopped
+ 2025-10-16 18:46:56,635-INFO-Disconnected
+ 2025-10-16 18:46:56,635-INFO-Session stopped
+ 2025-10-16 18:46:56,687-INFO-Sending video...
+ 2025-10-16 18:47:00,064-INFO-Connecting...
+ 2025-10-16 18:47:00,201-INFO-Connected! Production DC1 - IPv4
+ 2025-10-16 18:47:00,202-INFO-NetworkTask started
+ 2025-10-16 18:47:01,159-INFO-Session initialized: Layer 207
+ 2025-10-16 18:47:01,159-INFO-Device: CPython 3.13.7 - Pyrogram 2.3.68
+ 2025-10-16 18:47:01,159-INFO-System: Linux 6.14.0-2-rt3-MANJARO (en)
+ 2025-10-16 18:47:01,159-INFO-Session started
+ 2025-10-16 18:47:01,161-INFO-PingTask started
+ 2025-10-16 18:47:01,526-INFO-Started 8 HandlerTasks
+ 2025-10-16 18:47:01,532-INFO-Connecting...
+ 2025-10-16 18:47:01,748-INFO-Connected! Production DC1 (media) - IPv4
+ 2025-10-16 18:47:01,748-INFO-NetworkTask started
+ 2025-10-16 18:47:02,387-INFO-Session initialized: Layer 207
+ 2025-10-16 18:47:02,387-INFO-Device: CPython 3.13.7 - Pyrogram 2.3.68
+ 2025-10-16 18:47:02,388-INFO-System: Linux 6.14.0-2-rt3-MANJARO (en)
+ 2025-10-16 18:47:02,388-INFO-Session started
+ 2025-10-16 18:47:02,393-INFO-PingTask started
+ 2025-10-16 18:47:03,021-INFO-PingTask stopped
+ 2025-10-16 18:47:03,022-INFO-NetworkTask stopped
+ 2025-10-16 18:47:03,022-INFO-Disconnected
+ 2025-10-16 18:47:03,022-INFO-Session stopped
+ 2025-10-16 18:47:03,036-INFO-Connecting...
+ 2025-10-16 18:47:03,163-INFO-Connected! Production DC1 (media) - IPv4
+ 2025-10-16 18:47:03,164-INFO-NetworkTask started
+ 2025-10-16 18:47:03,561-INFO-Session initialized: Layer 207
+ 2025-10-16 18:47:03,561-INFO-Device: CPython 3.13.7 - Pyrogram 2.3.68
+ 2025-10-16 18:47:03,561-INFO-System: Linux 6.14.0-2-rt3-MANJARO (en)
+ 2025-10-16 18:47:03,561-INFO-Session started
+ 2025-10-16 18:47:03,565-INFO-PingTask started
+ 2025-10-16 18:47:43,581-INFO-PingTask stopped
+ 2025-10-16 18:47:43,581-INFO-NetworkTask stopped
+ 2025-10-16 18:47:43,581-INFO-Disconnected
+ 2025-10-16 18:47:43,581-INFO-Session stopped
+ 2025-10-16 18:47:43,890-INFO-Stopped 8 HandlerTasks
+ 2025-10-16 18:47:43,891-INFO-PingTask stopped
+ 2025-10-16 18:47:43,891-INFO-NetworkTask stopped
+ 2025-10-16 18:47:43,892-INFO-Disconnected
+ 2025-10-16 18:47:43,892-INFO-Session stopped
+ 2025-10-16 18:47:43,911-INFO-Sending video...
+ 2025-10-16 18:47:53,384-INFO-Connecting...
+ 2025-10-16 18:47:53,551-INFO-Connected! Production DC1 - IPv4
+ 2025-10-16 18:47:53,554-INFO-NetworkTask started
+ 2025-10-16 18:47:54,223-INFO-Session initialized: Layer 207
+ 2025-10-16 18:47:54,224-INFO-Device: CPython 3.13.7 - Pyrogram 2.3.68
+ 2025-10-16 18:47:54,224-INFO-System: Linux 6.14.0-2-rt3-MANJARO (en)
+ 2025-10-16 18:47:54,224-INFO-Session started
+ 2025-10-16 18:47:54,233-INFO-PingTask started
+ 2025-10-16 18:47:54,997-INFO-Started 8 HandlerTasks
+ 2025-10-16 18:47:55,006-INFO-Connecting...
+ 2025-10-16 18:47:55,189-INFO-Connected! Production DC1 (media) - IPv4
+ 2025-10-16 18:47:55,189-INFO-NetworkTask started
+ 2025-10-16 18:47:55,794-INFO-Session initialized: Layer 207
+ 2025-10-16 18:47:55,794-INFO-Device: CPython 3.13.7 - Pyrogram 2.3.68
+ 2025-10-16 18:47:55,794-INFO-System: Linux 6.14.0-2-rt3-MANJARO (en)
+ 2025-10-16 18:47:55,794-INFO-Session started
+ 2025-10-16 18:47:55,794-INFO-PingTask started
+ 2025-10-16 18:47:56,199-INFO-PingTask stopped
+ 2025-10-16 18:47:56,199-INFO-NetworkTask stopped
+ 2025-10-16 18:47:56,200-INFO-Disconnected
+ 2025-10-16 18:47:56,200-INFO-Session stopped
+ 2025-10-16 18:47:56,215-INFO-Connecting...
+ 2025-10-16 18:47:56,458-INFO-Connected! Production DC1 (media) - IPv4
+ 2025-10-16 18:47:56,458-INFO-NetworkTask started
+ 2025-10-16 18:47:56,893-INFO-Session initialized: Layer 207
+ 2025-10-16 18:47:56,893-INFO-Device: CPython 3.13.7 - Pyrogram 2.3.68
+ 2025-10-16 18:47:56,894-INFO-System: Linux 6.14.0-2-rt3-MANJARO (en)
+ 2025-10-16 18:47:56,894-INFO-Session started
+ 2025-10-16 18:47:56,902-INFO-PingTask started
+ 2025-10-16 18:48:26,752-INFO-PingTask stopped
+ 2025-10-16 18:48:26,753-INFO-NetworkTask stopped
+ 2025-10-16 18:48:26,753-INFO-Disconnected
+ 2025-10-16 18:48:26,753-INFO-Session stopped
+ 2025-10-16 18:48:27,028-INFO-Stopped 8 HandlerTasks
+ 2025-10-16 18:48:27,029-INFO-PingTask stopped
+ 2025-10-16 18:48:27,029-INFO-NetworkTask stopped
+ 2025-10-16 18:48:27,030-INFO-Disconnected
+ 2025-10-16 18:48:27,030-INFO-Session stopped
+ 2025-10-16 18:48:27,097-INFO-Sending video...
+ 2025-10-16 18:48:28,339-INFO-Connecting...
+ 2025-10-16 18:48:28,749-INFO-Connected! Production DC1 - IPv4
+ 2025-10-16 18:48:28,751-INFO-NetworkTask started
+ 2025-10-16 18:48:29,245-INFO-Session initialized: Layer 207
+ 2025-10-16 18:48:29,245-INFO-Device: CPython 3.13.7 - Pyrogram 2.3.68
+ 2025-10-16 18:48:29,245-INFO-System: Linux 6.14.0-2-rt3-MANJARO (en)
+ 2025-10-16 18:48:29,245-INFO-Session started
+ 2025-10-16 18:48:29,265-INFO-PingTask started
+ 2025-10-16 18:48:29,589-INFO-Started 8 HandlerTasks
+ 2025-10-16 18:48:29,599-INFO-Connecting...
+ 2025-10-16 18:48:29,731-INFO-Connected! Production DC1 (media) - IPv4
+ 2025-10-16 18:48:29,743-INFO-NetworkTask started
+ 2025-10-16 18:48:30,143-INFO-Session initialized: Layer 207
+ 2025-10-16 18:48:30,144-INFO-Device: CPython 3.13.7 - Pyrogram 2.3.68
+ 2025-10-16 18:48:30,144-INFO-System: Linux 6.14.0-2-rt3-MANJARO (en)
+ 2025-10-16 18:48:30,144-INFO-Session started
+ 2025-10-16 18:48:30,145-INFO-PingTask started
+ 2025-10-16 18:48:30,416-INFO-PingTask stopped
+ 2025-10-16 18:48:30,417-INFO-NetworkTask stopped
+ 2025-10-16 18:48:30,417-INFO-Disconnected
+ 2025-10-16 18:48:30,418-INFO-Session stopped
+ 2025-10-16 18:48:30,425-INFO-Connecting...
+ 2025-10-16 18:48:30,567-INFO-Connected! Production DC1 (media) - IPv4
+ 2025-10-16 18:48:30,569-INFO-NetworkTask started
+ 2025-10-16 18:48:31,041-INFO-Session initialized: Layer 207
+ 2025-10-16 18:48:31,042-INFO-Device: CPython 3.13.7 - Pyrogram 2.3.68
+ 2025-10-16 18:48:31,042-INFO-System: Linux 6.14.0-2-rt3-MANJARO (en)
+ 2025-10-16 18:48:31,042-INFO-Session started
+ 2025-10-16 18:48:31,049-INFO-PingTask started
+ 2025-10-16 18:48:38,008-INFO-PingTask stopped
+ 2025-10-16 18:48:38,008-INFO-NetworkTask stopped
+ 2025-10-16 18:48:38,008-INFO-Disconnected
+ 2025-10-16 18:48:38,008-INFO-Session stopped
+ 2025-10-16 18:48:38,637-INFO-Stopped 8 HandlerTasks
+ 2025-10-16 18:48:38,638-INFO-PingTask stopped
+ 2025-10-16 18:48:38,640-INFO-NetworkTask stopped
+ 2025-10-16 18:48:38,641-INFO-Disconnected
+ 2025-10-16 18:48:38,641-INFO-Session stopped
+ 2025-10-16 18:48:38,679-INFO-Sending video...
+ 2025-10-16 18:48:43,657-INFO-Connecting...
+ 2025-10-16 18:48:43,811-INFO-Connected! Production DC1 - IPv4
+ 2025-10-16 18:48:43,812-INFO-NetworkTask started
+ 2025-10-16 18:48:44,442-INFO-Session initialized: Layer 207
+ 2025-10-16 18:48:44,444-INFO-Device: CPython 3.13.7 - Pyrogram 2.3.68
+ 2025-10-16 18:48:44,445-INFO-System: Linux 6.14.0-2-rt3-MANJARO (en)
+ 2025-10-16 18:48:44,445-INFO-Session started
+ 2025-10-16 18:48:44,455-INFO-PingTask started
+ 2025-10-16 18:48:45,175-INFO-Started 8 HandlerTasks
+ 2025-10-16 18:48:45,195-INFO-Connecting...
+ 2025-10-16 18:48:45,465-INFO-Connected! Production DC1 (media) - IPv4
+ 2025-10-16 18:48:45,466-INFO-NetworkTask started
+ 2025-10-16 18:48:46,132-INFO-Session initialized: Layer 207
+ 2025-10-16 18:48:46,133-INFO-Device: CPython 3.13.7 - Pyrogram 2.3.68
+ 2025-10-16 18:48:46,133-INFO-System: Linux 6.14.0-2-rt3-MANJARO (en)
+ 2025-10-16 18:48:46,133-INFO-Session started
+ 2025-10-16 18:48:46,133-INFO-PingTask started
+ 2025-10-16 18:48:46,672-INFO-PingTask stopped
+ 2025-10-16 18:48:46,681-INFO-NetworkTask stopped
+ 2025-10-16 18:48:46,681-INFO-Disconnected
+ 2025-10-16 18:48:46,682-INFO-Session stopped
+ 2025-10-16 18:48:46,750-INFO-Connecting...
+ 2025-10-16 18:48:47,024-INFO-Connected! Production DC1 (media) - IPv4
+ 2025-10-16 18:48:47,028-INFO-NetworkTask started
+ 2025-10-16 18:48:47,778-INFO-Session initialized: Layer 207
+ 2025-10-16 18:48:47,779-INFO-Device: CPython 3.13.7 - Pyrogram 2.3.68
+ 2025-10-16 18:48:47,782-INFO-System: Linux 6.14.0-2-rt3-MANJARO (en)
+ 2025-10-16 18:48:47,782-INFO-Session started
+ 2025-10-16 18:48:47,787-INFO-PingTask started
